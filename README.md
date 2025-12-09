@@ -1,29 +1,95 @@
-[![MasterHead](https://i.pinimg.com/1200x/21/70/46/21704649a5e698cfe70a862e71784fb1.jpg)]
-<h1 align="center">Hi 👋, I'm Mahmud Hasan Shanto</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer (MERN & Laravel)</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphc3k0bHBkOWV4cDF2aHlpdGp0eWY5bnQ2aWNqdTdua253OTN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
+<!-- GitHub Profile README - Enhanced Design -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codershanto&label=Profile%20views&color=0e75b6&style=flat" alt="codershanto" /> </p>
+  <!-- Animated Header Banner with subtle gradient -->
+  <img src="https://i.pinimg.com/1200x/21/70/46/21704649a5e698cfe70a862e71784fb1.jpg" alt="MasterHead" width="100%" style="border-radius:8px; margin-bottom: 16px;" />
 
-- 🌱 I’m currently learning **MERN**
+  <h1>✨ Hi there, I'm <b>Mahmud Hasan Shanto</b> ✨</h1>
+  <h3>🚀 Aspiring Software Engineer | Full-Stack Developer (MERN & Laravel)</h3>
 
-- 💬 Ask me about **MERN, LARAVEL**
+  <!-- Animated Coding GIF -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphc3k0bHBkOWV4cDF2aHlpdGp0eWY5bnQ2aWNqdTdua253OTN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="320" alt="Coding Animation" style="border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 
-- 📫 How to reach me **sshanto12344321@gmail.com**
+  <!-- Profile Views Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=codershanto&label=Profile%20Views&color=blueviolet&style=flat-square&logo=github" alt="Profile Views" />
+  </p>
 
-- ⚡ Fun fact **I am funny**
+  <hr style="width:80%; border:0.5px solid #eaecef; margin:32px auto;" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md. mahmud hasan shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. mahmud hasan shanto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmud hasan shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmud hasan shanto" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- About Section -->
+### 🔍 About Me
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <ul>
+          <li>🌱 Currently mastering the <b>MERN Stack</b> & modern DevOps tools</li>
+          <li>⚡ Building scalable web apps with <b>React, Node.js, Laravel</b></li>
+          <li>🎨 Passionate about clean UI/UX & performant code</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <ul>
+          <li>💬 Ask me about <b>MERN, Laravel, APIs, Docker</b></li>
+          <li>📫 Reach me: <a href="mailto:sshanto12344321@gmail.com"><code>sshanto12344321@gmail.com</code></a></li>
+          <li>🎯 Fun fact: <i>I turn coffee into code ☕ → 💻</i></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codershanto&show_icons=true&locale=en&layout=compact" alt="codershanto" /></p>
+<hr style="width:80%; border:0.5px solid #eaecef; margin:32px auto;" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codershanto&show_icons=true&locale=en" alt="codershanto" /></p>
+<!-- Connect Section -->
+### 🌐 Let's Connect
+<div align="center">
+  <a href="https://linkedin.com/in/md.mahmudhasanshanto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/mahmudhasanshanto" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codershanto&" alt="codershanto" /></p>
+<hr style="width:80%; border:0.5px solid #eaecef; margin:32px auto;" />
+
+<!-- Tech Stack -->
+### 🛠️ Tech Stack
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,java,python" /><br><br>
+
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap" /><br><br>
+
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb" /><br><br>
+
+  <h4>DevOps & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,kubernetes,linux,postman,figma" /><br><br>
+
+  <h4>Other</h4>
+  <img src="https://skillicons.dev/icons?i=arduino,pytorch" />
+</div>
+
+<hr style="width:80%; border:0.5px solid #eaecef; margin:32px auto;" />
+
+<!-- GitHub Stats -->
+### 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codershanto&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codershanto&layout=compact&theme=radical" />
+  <br><br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codershanto&theme=radical" />
+</div>
+
+<hr style="width:80%; border:0.5px solid #eaecef; margin:32px auto;" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
+</div>
+
