@@ -47,12 +47,15 @@
 <!-- Connect Section -->
 ### 🌐 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/md.mahmudhasanshanto" target="_blank">
+<p align="center">
+  <a href="[https://linkedin.com/in/md.mahmudhasanshanto](https://www.linkedin.com/in/md-mahmud-hasan-shanto-614b37224/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/mahmudhasanshanto" target="_blank">
+  <a href="[https://leetcode.com/mahmudhasanshanto](https://leetcode.com/u/sshanto12344321/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+</p>
+
 </div>
 
 <hr style="width:80%; border:0.5px solid #eaecef; margin:32px auto;" />
