@@ -73,10 +73,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb" /><br><br>
 
   <h4>DevOps & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,kubernetes,linux,postman,figma" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,kubernetes" /><br><br>
 
-  <h4>Other</h4>
-  <img src="https://skillicons.dev/icons?i=arduino,pytorch" />
+  <h4>Others</h4>
+  <img src="https://skillicons.dev/icons?i=arduino,pytorch,linux,postman,figma" />
 </div>
 
 <hr style="width:80%; border:0.5px solid #eaecef; margin:32px auto;" />
