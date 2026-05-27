@@ -35,8 +35,10 @@
         <ul>
           <li>💬 Ask me about <b>MERN, Laravel, APIs, Docker</b></li>
           <li>📫 Reach me: <a href="mailto:sshanto12344321@gmail.com"><code>sshanto12344321@gmail.com</code></a></li>
-         
-       
+          <li>📫 Reach me: <a href="mailto:sshanto12344321@gmail.com"><code>sshanto12344321@gmail.com</code></a></li>v
+        </ul>
+      </td>
+    </tr>
   </table>
 </div>
 
