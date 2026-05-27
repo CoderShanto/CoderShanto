@@ -26,7 +26,7 @@
     <tr>
       <td valign="top" width="50%">
         <ul>
-          <li>🌱 Currently mastering the <b>MERN Stack</b> & modern DevOps tools</li>
+          <li>🌱Building scalable web applications using Laravel, React, Node.js, and MySQL</li>
           <li>⚡ Building scalable web apps with <b>React, Node.js, Laravel</b></li>
           <li>🎨 Passionate about clean UI/UX & performant code</li>
         </ul>
