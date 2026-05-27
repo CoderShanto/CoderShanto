@@ -35,7 +35,7 @@
         <ul>
           <li>💬 Ask me about <b>MERN, Laravel, APIs, Docker</b></li>
           <li>📫 Reach me: <a href="mailto:sshanto12344321@gmail.com"><code>sshanto12344321@gmail.com</code></a></li>
-          <li>🎯 Fun fact: <i>I turn coffee into code ☕ → 💻</i></li>
+         
         </ul>
       </td>
     </tr>
