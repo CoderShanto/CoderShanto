@@ -26,7 +26,7 @@
     <tr>
       <td valign="top" width="50%">
         <ul>
-          <li>🌱Building scalable web applications using Laravel, React, Node.js, and MySQL</li>
+          <li>🌱 Building scalable web applications using Laravel, React, Node.js, and MySQL</li>
           <li>⚡ Building scalable web apps with <b>React, Node.js, Laravel</b></li>
           <li>🎨 Passionate about clean UI/UX & performant code</li>
         </ul>
