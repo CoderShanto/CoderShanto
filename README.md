@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/1200x/21/70/46/21704649a5e698cfe70a862e71784fb1.jpg" alt="MasterHead" width="100%" style="border-radius:8px; margin-bottom: 16px;" />
 
   <h1> Hi there, I'm <b>Mahmud Hasan Shanto</b> </h1>
-  <h3> Aspiring Software Engineer | Full-Stack Developer (MERN & Laravel)</h3>
+  <h3> Full-Stack Developer focused on scalable web applications</h3>
 
   <!-- Animated Coding GIF -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphc3k0bHBkOWV4cDF2aHlpdGp0eWY5bnQ2aWNqdTdua253OTN4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="320" alt="Coding Animation" style="border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
